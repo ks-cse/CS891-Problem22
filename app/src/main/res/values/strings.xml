@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Favourite Websites</string>
+    <string name="hint1">Enter your URL</string>
+    <string name="btn">OPEN</string>
+</resources>
